@@ -1,3 +1,7 @@
 22400039 - Paul Henry Elizalde - #2
+<<<<<<< HEAD
 
 22104773 - Jay Clark Anore - #1
+=======
+22104803 - Arvie Ingal - #3
+>>>>>>> f9d6d4448dc07a9f03afef2acaa637c6abc05732
